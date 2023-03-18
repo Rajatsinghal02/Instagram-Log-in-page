@@ -1,0 +1,134 @@
+body{
+    background-color: rgb(243, 248, 253);
+}
+.container{
+    background-color: white;
+    border:2px solid black;
+    margin-left:35%;
+    margin-right:35%;
+    margin-top:40px;
+    box-shadow: 2px 2px black;
+
+}
+.image{
+    margin-left:120px;
+    margin-top:20px;
+}
+.email{
+    margin-left:50px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+
+}
+#email{
+    padding:10px;
+    width:270px;
+}
+.password{
+    margin-left:50px;
+    padding-bottom: 15px;
+
+}
+#password{
+    padding: 10px;
+    width:270px;
+}
+.btn1{
+    margin-left: 60px;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+     background-color: rgb(24, 117, 255);
+     border:none;
+     border-radius: 4px;
+     width:270px;
+     margin-bottom:10px;
+}
+.btn1 a{
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    padding: 3px;
+}
+.section{
+    margin-left:15px;
+    margin-right:15px;
+    margin-top:10px;
+    margin-bottom:10px;
+    display: flex;
+    flex-direction: row;
+}
+.bar1{
+    width:60%;
+    margin-left:20px;
+    float:left;
+    margin-right: 100px;
+}
+.bar2{
+    float:right;
+    width:60%;
+    margin-right: 20px;
+}
+
+.btn2 a{
+    text-decoration: none;
+    text-align: center;
+    word-spacing: 2px;
+    display: block;
+    padding-top: 2px;
+}
+.btn2 img{
+    padding-right:4px;
+    padding-top: 3px;
+}
+.btn2{
+    background-color: transparent;
+    border:none;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+}
+.forgot{
+    margin-left:120px;
+    padding-bottom: 20px;
+}
+.forgot a{
+    text-decoration: none;
+    font-weight: normal;
+    
+}
+.container2{
+    background-color: white;
+    border:2px solid black;
+    margin-left:35%;
+    margin-right:35%;
+    margin-top:10px;
+
+}
+.para{
+    margin-left:50px;
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+.para a{
+    text-decoration: none;
+    color:rgb(24, 117, 255);
+}
+.para2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+
+}
+.download{
+    margin-left:500px;
+}
+.store{
+    margin-left:90px;
+}
